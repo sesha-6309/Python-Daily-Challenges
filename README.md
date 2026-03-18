@@ -14,6 +14,7 @@ This repository is a structured daily log of Python programming challenges focus
 | 3 | Student Performance Analyzer | ✅ Complete |
 | 4 | Cyber Activity Risk Analyzer | ✅ Complete |
 | 5 | Emergency Resource Dispatch Analyzer | ✅ Complete |
+| 6 | Smart Transaction Risk Detector | ✅ Complete |
 
 ---
 
@@ -78,7 +79,14 @@ Each day's challenge includes:
 - Personalized filtering using PLI rule (L % 3)  
 - Dynamic rule application (Rule A / Rule B / Rule C)  
 
----
+### Day 6 – Smart Transaction Risk Detector
+- Transaction classification using dictionary
+- List comprehension for filtering valid transactions
+- Detection of spending patterns (frequent, large, suspicious)
+- Risk classification (Low / Moderate / High)
+- Use of tuple for summarizing results
+
+--- 
 
 ## 📈 Learning Outcomes
 
@@ -88,7 +96,8 @@ Each day's challenge includes:
 - Structured and readable code practices  
 - Real-world logic simulation  
 
----
+ ---
+
 
 📅 **Start Date:** 28 January 2026  
 🎯 **Target Completion:** Day 60  
