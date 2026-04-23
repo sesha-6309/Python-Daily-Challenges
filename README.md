@@ -15,6 +15,7 @@ This repository is a structured daily log of Python programming challenges focus
 | 4 | Cyber Activity Risk Analyzer | ✅ Complete |
 | 5 | Emergency Resource Dispatch Analyzer | ✅ Complete |
 | 6 | Smart Transaction Risk Detector | ✅ Complete |
+| 8 | Multi-Dimensional Academic Intelligence System  | ✅ Complete |
 
 ---
 
@@ -86,7 +87,18 @@ Each day's challenge includes:
 - Risk classification (Low / Moderate / High)
 - Use of tuple for summarizing results
 
---- 
+### Day 8 – Student Performance Multi-Dimensional Analyzer
+-Data generation using random module
+-Structured data storage using Lists, Tuples, and Dictionary
+-Conversion of raw data into Pandas DataFrame
+-Statistical analysis using NumPy (mean, median)
+-Manual computation of standard deviation
+-Feature engineering using Performance Index
+-Student classification (At Risk / Average / Good / Top Performer)
+-Correlation analysis (Marks vs Attendance)
+-Data normalization (Min-Max scaling)
+-Pattern detection (Consistency, Attendance Risk, High Achievement)
+-Final system insight generation
 
 ## 📈 Learning Outcomes
 
