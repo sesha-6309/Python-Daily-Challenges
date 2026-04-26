@@ -17,6 +17,7 @@ This repository is a structured daily log of Python programming challenges focus
 | 6 | Smart Transaction Risk Detector | ✅ Complete |
 | 8 | Multi-Dimensional Academic Intelligence System  | ✅ Complete |
 | 9 | Smart Inventory Mutation Tracker | ✅ Complete |
+|10 | Academic Data Drift & Copy Behavior Analyzer | ✅ Complete |
 ---
 
 ## 📚 Repository Structure
@@ -111,6 +112,27 @@ Each day's challenge includes:
 - Compared original and modified data to detect changes
 - Generated tuple summary for changed vs unchanged items
 - Demonstrated impact of shared references in shallow copy
+
+###Day 10 – Academic Data Drift & Copy Behavior Analyzer
+- Generated student academic data using random
+- Stored structured data using list of dictionaries (nested)
+- Converted raw data into Pandas DataFrame for better visualization
+- Applied NumPy for statistical analysis (mean, median, standard deviation)
+- Performed manual calculation of mean without NumPy
+- Used math functions (sqrt) to transform marks
+- Implemented shallow copy and deep copy
+- Applied mutation only on copied data (marks, scores, attendance)
+- Personalized mutation logic using register number (roll_no % 3)
+- Detected data drift using difference in mean values
+- Applied Min-Max normalization on marks
+- Classified system behavior:
+- Stable Data
+- Minor Drift
+- Critical Drift
+- Copy Failure Detected
+- Observed how shallow copy causes unintended changes due to shared references
+- Demonstrated how deep copy preserves original data integrity
+  
 
 ## 📈 Learning Outcomes
 
