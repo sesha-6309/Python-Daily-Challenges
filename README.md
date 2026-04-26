@@ -16,7 +16,7 @@ This repository is a structured daily log of Python programming challenges focus
 | 5 | Emergency Resource Dispatch Analyzer | ✅ Complete |
 | 6 | Smart Transaction Risk Detector | ✅ Complete |
 | 8 | Multi-Dimensional Academic Intelligence System  | ✅ Complete |
-
+| 9 | Smart Inventory Mutation Tracker | ✅ Complete |
 ---
 
 ## 📚 Repository Structure
@@ -100,13 +100,26 @@ Each day's challenge includes:
 -Pattern detection (Consistency, Attendance Risk, High Achievement)
 -Final system insight generation
 
+### Day 9 – Smart Inventory Mutation Tracker
+- Created inventory using nested data structures (List of Dictionaries)
+- Implemented functions for modular design (create, update, compare)
+- Applied shallow copy and deep copy operations
+- Performed mutation (10% price reduction and stock update)
+- Personalized logic using roll number (index = roll_no % length)
+- Observed behavior difference between shallow and deep copy
+- Used loops and conditional statements for processing
+- Compared original and modified data to detect changes
+- Generated tuple summary for changed vs unchanged items
+- Demonstrated impact of shared references in shallow copy
+
 ## 📈 Learning Outcomes
 
 - Strong understanding of conditional logic  
 - Efficient use of lists and loops  
 - Personalized algorithm design  
 - Structured and readable code practices  
-- Real-world logic simulation  
+- Real-world logic simulation
+- Understood real-world issue of unintended data modification due to shallow copying
 
  ---
 
